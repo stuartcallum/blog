@@ -74,12 +74,12 @@ theme = "hugo-blog-awesome"
     weight = 30
 
 [Languages.en-gb.params]
-  sitename = "Callum's Travel & Dev Blog"
+  sitename = "Callum's Travel Blog"
   defaultColor = "auto" # set color mode: dark, light, auto
   # Setting it to 'auto' applies the color scheme based on the visitor's device color preference.If you don't specify anything, ignore this parameter, or leave it blank,
   # the default value is set to 'auto'.
   # You can take a look at layouts/index.html for more information.
-  description = "Callum's Travel & Dev Blog"
+  description = "First post is up. More to follow."
   mainSections = ['posts']
   toc = false # set to false to disable table of contents 'globally'
   tocOpen = false # set to true to open table of contents by default
@@ -101,7 +101,7 @@ theme = "hugo-blog-awesome"
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
   intro = "Welcome to Callum's Travel Blog"
   name = "Callum Stuart"
-  description = "From 13 August 2025 - 4 December 2025 I went on a four month backpacking tour around South-East Asia. This was my experience:"
+  description = "In 2025 I went on a four month backpacking tour around South-East Asia. This was my experience:"
 
 # Allow to override webmanifest options
 [Languages.en-gb.params.webmanifest]

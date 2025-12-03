@@ -5,7 +5,7 @@ title = 'Phuket'
 +++
 Okay, *technically* my trip didn't start here. I flew into George Town in Malaysia with Mum. George Town is nice and definitely worth a visit. On my last night in George Town, disaster struck. My phone got the [white screen of death.](https://www.reddit.com/r/Tech_Philippines/comments/1d7oble/white_screen_of_death_for_iphone_13_series/) A common theme for the rest of my trip. With my visa printed out and the name of my hostel written on a notepad, I nakedly embarked on my flight into Thailand.
 
-Stepping out of the airport, I swallowed a gulp of that familiar, muggy, topical humidity. Swarmed with taxi drivers like flys to shit, I was informed that my hostel was in fact on the other side of the island. Worse still, it was gonna cost $50 dollery-doos to get there. I had no phone. I couldn't fact check them. I agreed to the fee and was walking to the cab when I spotted a "*Local Bus →*" sign.
+Stepping out of the airport, I swallowed a gulp of that familiar, muggy, topical humidity. Swarmed by taxi drivers like flys to shit, I was informed that my hostel was in fact on the other side of the island. Worse still, it was gonna cost $50 dollery-doos to get there. I had no phone. I couldn't fact check them. I agreed to the fee and was walking to the cab when I spotted a "*Local Bus →*" sign.
 "What about the bus?" I naively asked the driver. 
 "There is no bus." He informed me. 
 I was chased all the way to the terminal by "helpful" taxi drivers. They might have lied about the bus. But it was true - my hostel was on the other side of the island. 
