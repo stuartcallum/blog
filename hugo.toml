@@ -99,9 +99,9 @@ theme = "hugo-blog-awesome"
 [Languages.en-gb.params.author]
   avatar = "avatar.jpg" # put the file in assets folder; also ensure that image has same height and width
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
-  intro = "Welcome to Callum's Dev & Travel Blog"
+  intro = "Welcome to Callum's Travel Blog"
   name = "Callum Stuart"
-  description = "It's still early days. I aim to update this blog with journal entries - both technical projects and stories from travelling."
+  description = "From 13 August 2025 - 4 December 2025 I went on a four month backpacking tour around South-East Asia. This was my experience:"
 
 # Allow to override webmanifest options
 [Languages.en-gb.params.webmanifest]
