@@ -32,7 +32,7 @@ I spent the next week watching characters come and go:
 ![Drum circle](https://r2-holidays.callumstu.art/se-asia/IMG_0005.jpeg)
 *The Friday night drum circle*
 
-A week flashed by. I grew restless. I booked a day trip to Koh Phi Phi and realised I had become Odysseus on the island of Ogygia. I had to escape. There was so much to see outside the Garden of Selina. I deferred back to my [map of the Banana Pancake Trail](https://r2-holidays.callumstu.art/se-asia/IMG_0050.PNG) and saw my next stop - Koh Tao. I said my goodbyes to AJ and set sail.
+A week flashed by. I grew restless. I booked a day trip to Koh Phi Phi and realised I had become Odysseus on the island of Ogygia. I had to escape. There was too much to see outside the Garden of Selina. I deferred back to my [map of the Banana Pancake Trail](https://r2-holidays.callumstu.art/se-asia/IMG_0050.PNG) and saw my next stop - Koh Tao. I said my goodbyes to AJ and set sail.
 
 **Phuket: 1/10**
 
