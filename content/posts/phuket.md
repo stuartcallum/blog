@@ -8,16 +8,16 @@ Okay, *technically* my trip didn't start here. I flew into George Town in Malays
 Stepping out of the airport, I swallowed a gulp of that familiar, muggy, topical humidity. Swarmed with taxi drivers like flys to shit, I was informed that my hostel was in fact on the other side of the island. Worse still, it was gonna cost $50 dollery-doos to get there. I had no phone. I couldn't fact check them. I agreed to the fee and was walking to the cab when I spotted a "*Local Bus →*" sign.
 "What about the bus?" I naively asked the driver. 
 "There is no bus." He informed me. 
-I was chased all the way to the bus terminal by "helpful" taxi drivers. They might have lied about the bus. But it was true - my hostel was on the other side of the island. 
+I was chased all the way to the terminal by "helpful" taxi drivers. They might have lied about the bus. But it was true - my hostel was on the other side of the island. 
 
 I paid my dollar and hopped on. Having no phone, my only reading material was the text messages of a sweaty, fat, English man sat next to me. He was soliciting sex workers. Gazing out the window I could ascertain why people really come to Phuket:
 1. Drinking at a beach resort
 2. Sex workers
 3. Drugs
 
-"End of the line." the bus driver announced. He kicked me out onto a dark, long, street at the tail end of the island. I had no idea where I was staying. Even if I did, I had no way of calling a Grab. An angel on a scooter pulled up beside me. "Where you go?" I showed him my notepad with the hostel and the address scribbled on it. "Okay, I take you." Mum told me a story of a kid back home getting brain damage from a scooter accident in Bali. Before I left I promised not to get on any bikes. Yet here I was, two hours in, on the back of a 125cc toy with all my bags and no helmet. I quickly checked in and immediately passed out in my bunk.
+"End of the line." the driver announced. He kicked me out onto a dark, long, street at the tail end of the island. I had no idea where I was staying. Even if I did, I had no way of calling a Grab. An angel on a scooter pulled up beside me. "Where you go?" I showed him my notepad with the hostel and the address scribbled on it. "Okay, I take you." Mum told me a story of a kid back home getting brain damage from a scooter accident in Bali. Before I left I promised not to get on any bikes. Yet here I was, two hours in, on the back of a 125cc toy with all my bags and no helmet. I quickly checked in and immediately passed out in my bunk.
 
-I fell asleep in Hell, and woke up in Heaven. [Selina](https://selinahotels.com) is a little slice of paradise, nestled away from the chaos of Phuket. I spent my days going to the gym, lounging by the pool, polishing up my CV, and taking advantage of their 2-for-1 happy hour. I would occasionally dare venture out for food, or to get my phone fixed. But quickly retreated back to the former resort. It's here that we meet the first hero of our story; [AJ](https://www.instagram.com/aj_horses_and_travel/).
+I fell asleep in Hell, and woke up in Heaven. [Selina](https://selinahotels.com) is a little slice of paradise, nestled away from the chaos of Phuket. I spent my days going to the gym, lounging by the pool, and taking advantage of their 2-for-1 happy hour. I would occasionally dare venture out for food, or to get my phone fixed. But quickly retreated back to the former resort. It's here that we meet the first hero of our story; [AJ](https://www.instagram.com/aj_horses_and_travel/).
 
 ![Cheers! From AJ](https://r2-holidays.callumstu.art/se-asia/IMG_0083.JPG)
 *Cheers!*
