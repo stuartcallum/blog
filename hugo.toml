@@ -55,13 +55,13 @@ theme = "hugo-blog-awesome"
   weight = 1
 
   [Languages.en-gb.menu]
-  [[Languages.en-gb.menu.main]]
-    # The page reference (pageRef) is useful for menu highlighting
-    # When pageRef is set, setting `url` is optional; it will be used as a fallback if the page is not found.
-    pageRef="/"
-    name = 'Home'
-    url = '/'
-    weight = 10
+#  [[Languages.en-gb.menu.main]]
+#    # The page reference (pageRef) is useful for menu highlighting
+#    # When pageRef is set, setting `url` is optional; it will be used as a fallback if the page is not found.
+#    pageRef="/"
+#    name = 'Home'
+#    url = '/'
+#    weight = 10
   [[Languages.en-gb.menu.main]]
     pageRef="posts"
     name = 'Posts'
@@ -70,7 +70,7 @@ theme = "hugo-blog-awesome"
   [[Languages.en-gb.menu.main]]
     pageRef="about"
     name = 'About'
-    url = '/about/'
+    url = 'https://cv.callumstu.art'
     weight = 30
 
 [Languages.en-gb.params]
@@ -99,9 +99,9 @@ theme = "hugo-blog-awesome"
 [Languages.en-gb.params.author]
   avatar = "avatar.jpg" # put the file in assets folder; also ensure that image has same height and width
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
-  intro = "Awesome hugo blog"
+  intro = "Welcome to Callum's Dev & Travel Blog"
   name = "Callum Stuart"
-  description = "A fast, minimalistic Hugo theme with light and dark mode support, for running a personal site or blog."
+  description = "It's still early days. I aim to update this blog with journal entries - both technical projects and stories from travelling."
 
 # Allow to override webmanifest options
 [Languages.en-gb.params.webmanifest]
@@ -119,3 +119,7 @@ url = "https://github.com/stuartcallum"
 [[params.socialIcons]]
 name = "letterboxd"
 url = "https://letterboxd.com/calstu"
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://linkedin.com/in/callumstuart"

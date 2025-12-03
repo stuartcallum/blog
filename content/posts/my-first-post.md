@@ -20,7 +20,7 @@ this is **bold** content and this one is *emphasized*
 This is an [embedded link](https://callumstu.art)!
 
 This is an embedded image:
-![this is an embedded image](https://callumstu.art/se-asia/WhatsApp%20Image%202025-09-20%20at%201.12.27%20PM.jpeg)
+![this is an embedded image](https://r2-holidays.callumstu.art/se-asia/WhatsApp%20Image%202025-09-20%20at%201.12.27%20PM.jpeg)
 
 When satisfied with your new content, set the front matter `draft` parameter to `false`.
 
