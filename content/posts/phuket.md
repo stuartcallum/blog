@@ -20,7 +20,7 @@ I paid my dollar and hopped on. Having no phone, my only reading material was th
 I fell asleep in Hell, and woke up in Heaven. [Selina](https://selinahotels.com) is a little slice of paradise, nestled away from the chaos of Phuket. I spent my days going to the gym, lounging by the pool, and taking advantage of their 2-for-1 happy hour. I would occasionally dare venture out for food, or to get my phone fixed. But quickly retreated back to the former resort. It's here that we meet the first hero of our story; [AJ](https://www.instagram.com/aj_horses_and_travel/).
 
 ![Cheers! From AJ](https://r2-holidays.callumstu.art/se-asia/IMG_0083.JPG)
-*Cheers!*
+*Cheers, lad!*
 
 I noticed him bouncing from table to table, telling anyone willing to listen that he's from "*Liverpoooool*". And anything you could want to hear about "the horse". AJ works in Olympic level showjumping. He'll talk the ear off a tree. But that tree will get to hear some hilarious stories. "Have you ever stayed at a hostel that gives you more than one pillow!?" I hadn't the nerve to tell him I'd never stayed at a hostel. It was AJ that informed me of the lore of Selina: Selina was a resort that went under a couple of months back. The new owners put bunks into the old rooms and now it's the poshest hostel in Thailand.
 
