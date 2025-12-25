@@ -22,3 +22,12 @@ The tango show was sick. It had a full band, beautiful singers, a three course m
 
 We also ate at a steakhouse featured in 'Anthony Bourdain: Parts Unknown'. But I think it gave Alex food poisoning because he was chundering in the shower that night.
 ![Anthony Bourdain Restaurant](https://r2-holidays.callumstu.art/south-america/IMG_9270.jpeg)
+
+Alex's mate, Chris happened to also be in Buenos Aires with his family. On Christmas Eve, he called round to the AirBnB for a few rounds of Uno.
+![Rolling pizza](https://r2-holidays.callumstu.art/south-america/IMG_1249.jpeg)
+
+We wondered the streets for dinner. There was a great buzz. But when we saw McDonalds was closed we knew we were SOL for food. We found a pizza place swarmed with tourists charging $50 for a pizza, and chose to go to bed hungry.
+Chris at the Pizza Place
+
+Christmas Day was more festive. We had a wee Ckris Kringle with presents we bought in town. And Taaj made us all french toast. 
+![Kris Kringle](https://r2-holidays.callumstu.art/south-america/IMG_9333.jpeg)
