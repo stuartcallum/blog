@@ -12,10 +12,13 @@ Fortunately there was enough time for breakfast beers.
 20 hours later we arrived in Buenos Aires. 
 
 We did a lot of sightseeing and eating over the next few days. We saw:
-* The presidential palace
+* La Casa Rosada (the Presidential Palace)
 * La Catedral Metropolitana
 * Puente de la Mujer (The Tango Bridge)
 * And a tango show
 ![Tango show](https://r2-holidays.callumstu.art/south-america/IMG_1230.jpeg)
 
+The tango show was sick. It had a full band, beautiful singers, a three course meal, and unlimited Argentinian wine. 
 
+We also ate at a steakhouse featured in 'Anthony Bourdain: Parts Unknown'. But I think it gave Alex food poisoning because he was chundering in the shower that night.
+![Anthony Bourdain Restaurant](https://r2-holidays.callumstu.art/south-america/IMG_9270.jpeg)
