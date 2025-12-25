@@ -30,5 +30,5 @@ Alex's mate, Chris happened to also be in Buenos Aires with his family. On Chris
 
 We wondered the streets for dinner. There was a great buzz. But when we saw McDonalds was closed we knew we were SOL for food. We found a pizza place swarmed with tourists charging $50 for a pizza, and chose to go to bed hungry.
 
-Christmas Day was more festive. We had a wee Ckris Kringle with presents we bought in town. And Taaj made us all french toast. 
+Christmas Day was more festive. We had a wee Kris Kringle with presents we bought in town. And Taaj made us all french toast. 
 ![Kris Kringle](https://r2-holidays.callumstu.art/south-america/IMG_9333.jpeg)
