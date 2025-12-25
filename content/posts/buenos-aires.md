@@ -15,7 +15,9 @@ We did a lot of sightseeing and eating over the next few days. We saw:
 * La Casa Rosada (the Presidential Palace)
 * La Catedral Metropolitana
 * Puente de la Mujer (The Tango Bridge)
-* And a tango show
+* The water and sewage museum
+* A beautiful bookstore installed in an old theatre
+* And a tango show!
 ![Tango show](https://r2-holidays.callumstu.art/south-america/IMG_1230.jpeg)
 
 The tango show was sick. It had a full band, beautiful singers, a three course meal, and unlimited Argentinian wine. 
