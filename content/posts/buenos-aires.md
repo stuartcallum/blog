@@ -21,11 +21,9 @@ We did a lot of sightseeing and eating over the next few days. We saw:
 
 ![Tango show](https://r2-holidays.callumstu.art/south-america/IMG_1230.jpeg)
 
-The tango show was sick. It had a full band, beautiful singers, a three course meal, and unlimited Argentinian wine. 
-
 We also ate at a steakhouse featured in 'Anthony Bourdain: Parts Unknown'. But I think it gave Alex food poisoning because he was chundering in the shower that night.
-
-![Anthony Bourdain Restaurant](https://r2-holidays.callumstu.art/south-america/IMG_9270.jpeg)
+![Gargoyle](https://rockgardens.net/cdn/shop/files/104a766be126b0b207f1e3537993e4c49604c41883923c462751cc0ed7f770df_2024-07-06T20_19_44.312Z.png?v=1720297187)
+*Pro tip: If it's coming out both ends, assume the gargoyle position.*
 
 Alex's mate, Chris happened to also be in Buenos Aires with his family. On Christmas Eve, he called round to the AirBnB for a few rounds of Uno.
 
